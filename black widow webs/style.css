@@ -1,0 +1,141 @@
+header{
+    width: 100%;
+    height: 400px;
+    background-image: url('Gray\ Gaming\ YouTube\ Banner\ \(2\).png');
+    background-position: center;
+    text-align: right;
+}
+
+ul{
+    color: gray;
+    display: flex;
+    flex-direction: row;
+    align-content: right;
+    list-style-type: none;
+    float: right;
+
+}
+li{
+    
+    padding: 20px;
+    margin-left: 20px;
+    font-size: larger;
+}
+a:visited{
+    text-decoration: none;
+    color: grey;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+.onebox{
+    width: 100%;
+    height: 600px;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    
+}
+.heading{
+    padding-bottom: 20px;
+}
+.onecontainer{
+    padding-right: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    
+}
+.picture{
+    height: 400px;
+    width: 400px;  
+    
+   
+}
+.picture img{
+    height: 100%;
+    width:100%;
+    border-radius: 200px;
+}
+
+.twobox{
+    width: 100%;
+    height: 600px;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    
+}
+.twoheading{
+    padding-bottom: 20px;
+}
+.twocontainer{
+    padding-right: 40px;
+    padding-left: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    
+}
+.twopicture{
+    height: 400px;
+    width: 400px;  
+    
+   
+}
+.twopicture img{
+    height: 100%;
+    width:100%;
+    border-radius: 200px;
+}
+
+
+.threebox{
+    width: 100%;
+    height: 600px;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    
+}
+.threeheading{
+    padding-bottom: 20px;
+}
+.threecontainer{
+    padding-right: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    
+}
+.threepicture{
+    height: 400px;
+    width: 400px;  
+    
+   
+}
+.threepicture img{
+    height: 100%;
+    width:100%;
+    border-radius: 200px;
+}
+
+footer{
+    width: 100%;
+    height: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: larger;
+    padding-top: 40px;
+}
+footer h1{
+    color: red;
+    padding-bottom: 20px;
+    
+}
